@@ -11,6 +11,7 @@ lowest.rc <- 60
 #### load package ####
 library(GenomicRanges)
 library(Rsamtools)
+
 #### Function ####
 ## Construct Methylation Pattern
 patternList <- function(x){
